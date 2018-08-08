@@ -42,4 +42,4 @@ edited
 
 
 
-[test](https://github.com/IrinaMamchur/IrinaMamchur.github.io/edit/master/test)
+[test](https://irinamamchur.github.io/goit-fe-course/)
